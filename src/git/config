@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+[user]
+	name = CSIKI ANDREI-ALEXANDRU
+	email = alexcsiki2019@gmail.com
+[remote "origin"]
+	url = git@gitlab.cs.pub.ro:andrei.csiki/gigiquant.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
